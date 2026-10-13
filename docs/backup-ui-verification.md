@@ -1,0 +1,3 @@
+# Backup UI Verification
+
+The `/admin/backups` route was verified in the authenticated administrative session on 2026-08-14. The sidebar displayed the new **النسخ الاحتياطية** navigation item. After the initial permission query completed, the page rendered the encrypted-backup control, empty-state list, and the warning that direct production restore is prohibited. An encrypted logical backup was created from the UI successfully: it contained 60 tables and 118 records, with a 28.0 KB encrypted payload. The verification request then downloaded and decrypted that backup successfully, returning the same 60 tables and 118 records. No restore operation was performed.

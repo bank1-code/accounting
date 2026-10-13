@@ -1,0 +1,2 @@
+ALTER TABLE `warehouses` ADD `parentWarehouseId` int;--> statement-breakpoint
+ALTER TABLE `warehouses` ADD `storageCategory` enum('general','dry','chilled','frozen','ingredients','packaging','finished_goods','other') DEFAULT 'general' NOT NULL;

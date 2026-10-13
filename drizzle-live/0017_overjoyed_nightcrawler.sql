@@ -1,0 +1,1 @@
+ALTER TABLE `journal_entries` ADD `sourceEntryNumber` varchar(32);

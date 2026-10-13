@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1770983184191,
+      "tag": "0000_ambiguous_nebula",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1770985430174,
+      "tag": "0001_mighty_mathemanic",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786564478968,
+      "tag": "0002_early_flatman",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1786565869882,
+      "tag": "0003_schema_baseline",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1786566251616,
+      "tag": "0004_saudi_erp_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1786566948919,
+      "tag": "0005_vat_end_to_end",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1786610634595,
+      "tag": "0006_local_auth_users",
+      "breakpoints": true
+    }
+  ]
+}

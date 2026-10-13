@@ -1,0 +1,1 @@
+ALTER TABLE `dgtera_migration_ledger` MODIFY COLUMN `checksum` char(64) NOT NULL;

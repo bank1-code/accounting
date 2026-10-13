@@ -1,0 +1,4 @@
+-- ZATCA/FATOORA submission layer.
+-- Applied and verified directly through the controlled schema migration workflow on 2026-08-13.
+-- This migration is intentionally a no-op so Drizzle records the verified baseline without reapplying DDL.
+-- No credential material is stored in the resulting tables.
